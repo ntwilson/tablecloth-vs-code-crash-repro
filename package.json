@@ -1,0 +1,15 @@
+{
+  "name": "tablecloth-vs-code-crash-repro",
+  "version": "1.0.0",
+  "description": "reproduce vs-code reason extension crashing",
+  "scripts": {
+    "build": "bsb -make-world"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "bs-platform": "^4.0.18",
+    "tablecloth-bucklescript": "0.0.5"
+  }
+}
